@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GBK"?>
+<?xml version="1.0" encoding="GB2312"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -37,9 +37,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>hrbfu</string>
+				<string>掌上校园</string>
 				<key>title</key>
-				<string>hrbfu</string>
+				<string>掌上校园</string>
 			</dict>
 		</dict>
 	</array>
