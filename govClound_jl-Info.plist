@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.highcom.app.mobile_govClound_jl</string>
+				<string>com.highcom.app.mobile_govClound_jl_test</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
