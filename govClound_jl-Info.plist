@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://139.215.214.42:8005/app/iphone_govClound_jl.ipa</string>
+					<string>http://139.215.214.42:8005/app/mobilegovCloundjl.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.highcom.app.mobile_govClound_jl</string>
+				<string>com.highcom.app.mobilegovCloundjl</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
