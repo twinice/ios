@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://139.215.206.133:8800/app/iphone_govClound_jl.ipa</string>
+					<string>http://139.215.214.36:8001/app/iphone_govClound_jl.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://139.215.206.133:8800/app/icon.png</string>
+					<string>http://139.215.214.36:8001/app/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://139.215.206.133:8800/app/icon.png</string>
+					<string>http://139.215.214.36:8001/app/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
